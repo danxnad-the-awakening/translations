@@ -181,9 +181,8 @@ campaign.difficulty.hard,Сложно
 campaign.difficulty.hardcore,Хардкор
 campaign.difficulty.locked.tip,Нужен уровень чтобы разблокировать: {0}
 campaign.difficulty.dialogue.locked,Уровень сложности который ты выбрал пока ещё закрыт. Достигни {0} уровня на более простых сложностях чтобы разблокировать.
-campaign.name,Campaign Name
 
-campaign.name,Campaign Name
+campaign.name,Названии Кампании
 
 campaign.missions_challenges,Задания и Испытания
 campaign.missions_challenges.tip,У некоторых этапов есть случайные миссии или испытания
@@ -524,50 +523,50 @@ dash.tip.reduce_1_lap,Обрать 1 круг
 dash.tip.reduce_5_laps,Убрать 5 кругов
 
 dash.tip.workshop_item,Предмет из Мастерской
-dash.tip.rand_time_attack,Random Time Attack session
-dash.tip.rand_race,Random quick race in unique procedurally generated location
-dash.tip.rand_battle,Random Car Battle with AI opponents in procedurally generated location
-dash.tip.mark_tips_unseen,Will mark all tips as unseen
-dash.tip.campaign_name_entry,Please use the keyboard or Randomize button above
-dash.tip.cloud_shadows_visible,Cloud shadows will still be visible
-dash.tip.not_affect_split_minimap,This setting does not affect split-screen minimap
-dash.tip.censorship,Will show #%$! instead of potentially offensive words
-dash.tip.discord_post,Post your leaderboard scores and uploaded mods to BRS Official Discord
-dash.tip.upgrade_available,Upgrade Available!
-dash.tip.voice_pitch_slider,Adjusts cutscene dialogue voice pitch
-dash.tip.file_on_computer,Choose a file on your computer
-dash.tip.player_num,Player {0}
-dash.tip.ai_skill,AI Skill: {0:0}%
-dash.tip.car_sprites_white,When editing sprites, keep car body white. Paint jobs are car independent.
-dash.tip.upload_car,Upload to Steam Workshop. Make sure you have set correct Max Speed in Parameters before uploading!
-dash.tip.reload_car,Use this after changing car sprites outside the game
-dash.tip.speed_index,Benchmark for relative quickness
-dash.tip.leaderboard_eligible,This track is eligible to have Leaderboards
-dash.tip.ghost_replay_available,Ghost Replay is available
-dash.tip.add_racer_btn,Add new racer (Human or AI)
-dash.tip.show_track_leaderboards,SHow Track Leaderboards
-dash.tip.new_race_session,Start a new race session
-dash.tip.race_weapons,Will add weapon zones along the track
-dash.tip.0_racers,Remove all recers except for the Player
-dash.tip.add_1_rnd_racer,Add 1 random racer
-dash.tip.add_10_rnd_racers,Add 10 random racers
-dash.tip.rnd_gen_btn,Will generate a random race track
+dash.tip.rand_time_attack,Случайная Гонка на Время
+dash.tip.rand_race,Случайная быстрая гонка в случайно сгенерированной локации
+dash.tip.rand_battle,Случайная Битва Машин с противниками под контролем ИИ в случайно сгенерированной локации
+dash.tip.mark_tips_unseen,Пометит все подсказки как непрочитанные
+dash.tip.campaign_name_entry,Пожалуйста, используйте клавиатура или кнопку "Случайное" выше
+dash.tip.cloud_shadows_visible,Тени от облаков всё ещё будут видны
+dash.tip.not_affect_split_minimap,Эта настройка не влияет на миникарту для режима разделённого экрана
+dash.tip.censorship,Будет показывать #%$! вместо потенциально оскорбительных слов
+dash.tip.discord_post,Автоматически загружать твои рекорды и моды в официальный дискорд Bloody Rally Show
+dash.tip.upgrade_available,Новое обновление!
+dash.tip.voice_pitch_slider,Влияет на уровень голоса в катсценах
+dash.tip.file_on_computer,Выбери файл на компьютере
+dash.tip.player_num,Игрок {0}
+dash.tip.ai_skill,Сложность ИИ {0:0}%
+dash.tip.car_sprites_white,Когда редактируете спрайты, оставляйте кузов машин белым. Декали не зависят от цвета.
+dash.tip.upload_car,Загрузить в Мастерскую Стима. Убедись что максимальная скорость правильно выставленна!
+dash.tip.reload_car,Нажми сюда, если изменял спрайты машин вне игры
+dash.tip.speed_index,Индекс скорости автомобиля
+dash.tip.leaderboard_eligible,Этот трэк может иметь таблицу лидеров
+dash.tip.ghost_replay_available,Призрак доступен
+dash.tip.add_racer_btn,Добавить нового гощика (Человек или ИИ)
+dash.tip.show_track_leaderboards,Показать Таблицу Лидеров трэка
+dash.tip.new_race_session,Начать новый гоночный этап
+dash.tip.race_weapons,Добавит зоны выдачи оружия на трэк
+dash.tip.0_racers,Убрать всех гонщиков кроме Игрока
+dash.tip.add_1_rnd_racer,Добавить одного случайного гонщика
+dash.tip.add_10_rnd_racers,Добавить десять случайных гонщиков
+dash.tip.rnd_gen_btn,Сгенерирует случайный трэк
 
 # Custom Race Dash
 
-dash.set_for_everyone,Set For Everyone
-dash.car,Car
-dash.racers,Racers
-dash.search_for_track,Search for Track
-dash.randomize_prompt,Click "Generate"<br>To randomize some tracks
-dash.race_options,Race Options
-dash.race_mode,Race Mode
-dash.demo_mode,Demo Mode
-dash.demo_mode.tip,AI will drive instead of player
-dash.opponent_skill,Opponent Skill
-dash.start_race,Start Race
-dash.race_in_x,Race in {0}
-dash.battle_in_x,Battle in {0}
+dash.set_for_everyone,Установить Для Всех
+dash.car,Машина
+dash.racers,Гонщики
+dash.search_for_track,Поиск трэков
+dash.randomize_prompt,Нажми "Сгенерировать"<br>Чтобы сделать некоторые трэки случайными
+dash.race_options,Настройки Гонки
+dash.race_mode,Режим Гонки
+dash.demo_mode,Режим Демо
+dash.demo_mode.tip,ИИ поведёт машину за вас
+dash.opponent_skill,Сложность Оппонентов
+dash.start_race,Начать Гонку
+dash.race_in_x,Гонка через {0}
+dash.battle_in_x,Бой через {0}
 dash.time_attack_in_x,Time Attack in {0}
 dash.x_to_select,{0} to select
 dash.add_player,Add Player
